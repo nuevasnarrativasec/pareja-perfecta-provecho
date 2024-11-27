@@ -95,7 +95,7 @@ body {
 /* Like & dislike badge images */
 #tinderslide .like,
 #tinderslide .dislike {
-    background: url("/especiales-multimedia/pareja-perfecta-provecho/img/like.png") no-repeat scroll 0 0;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/like.png") no-repeat scroll 0 0;
     opacity: 0;
     height: 80px;
     position: absolute;
@@ -116,7 +116,7 @@ body {
 #tinderslide .dislike {
     right: 45px;
     left: auto;
-    background: url("../img/nope.png") no-repeat scroll 0 0;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/nope.png") no-repeat scroll 0 0;
 }
 
 /* Image container */
@@ -159,12 +159,12 @@ body {
 }
 
 .actions .dislike {
-    background: url("/especiales-multimedia/pareja-perfecta-provecho/img/dislike.png") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/dislike.png") no-repeat scroll center center;
     text-indent: -99999px;
 }
 
 .actions .like {
-    background: url("/especiales-multimedia/pareja-perfecta-provecho/img/like.png") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/like.png") no-repeat scroll center center;
     text-indent: -99999px;
 }
 
@@ -192,24 +192,24 @@ body {
 
 /* jTinder images */
 #tinderslide .pane5 .img {
-    background: url("../img/pane/pane5.jpg") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/pane/pane5.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane4 .img {
-    background: url("../img/pane/pane4.jpg") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/pane/pane4.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane3 .img {
-    background: url("../img/pane/pane3.jpg") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/pane/pane3.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane2 .img {
-    background: url("../img/pane/pane2.jpg") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/pane/pane2.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane1 .img,
 #tinderslide2 .pane1 .img {
-    background: url("../img/pane/pane1.jpg") no-repeat scroll center center;
+    background: url("https://nuevasnarrativasec.github.io/pareja-perfecta-provecho/img/pane/pane1.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 
